@@ -1,0 +1,96 @@
+*{
+    font-family: 'Montaga', serif;
+}
+
+body{
+    background-color: #e6c073;
+}
+
+.bg-color{
+    background-color: #aa540eee;
+}
+
+h1{
+    color: #392a1d;
+}
+
+.bck{
+    text-decoration: none;
+    color: white;
+}
+
+.bck:hover, .bck:active{
+    color: white;
+}
+
+.btn{
+    border-radius: 10px;
+    padding: 10px 15px;
+    border: 20x solid #5d5d5a;
+    background-color: #5d5d5a;
+    color: #fff4e3;
+    margin-right: 10px;
+}
+
+.card{
+    width: 300px;
+    border-radius: 10px;
+    display: inline-block;
+    background-color: rgba(232, 232, 232, 0.618);
+    vertical-align: top;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    margin-left: 0;
+}
+
+.card:hover{
+    transform: scale(1.2);
+}
+
+.card-img{
+    width: 100%;
+    display: block;
+    height: 250px;
+    padding: 18px;
+}
+
+.card-icon{ 
+    margin: 30px 0;
+} 
+
+.card-body{
+    padding: 15px;
+}
+
+.card-title{
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.card-paragraph{
+    margin-bottom: 10px;
+    color: #767675;
+}
+
+.add-to-carte{
+    width: 40px;
+    height: 40px;
+    background-color: #422208;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-top: -20px;
+    position: relative;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.card-block{
+    display: block;
+}
+
+.add-to-carte:active, .add-to-carte:hover{
+    transform: scale(1.1);
+}

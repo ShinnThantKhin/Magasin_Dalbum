@@ -1,0 +1,77 @@
+*{
+    font-family: 'Montaga', serif;
+}
+
+body{
+    background-color: #f5c181;
+}
+
+.bg-color{
+    background-color: #aa540eee;
+}
+
+.bck{
+    text-decoration: none;
+    color: white;
+}
+
+.bck:hover, .bck:active{
+    color: white;
+}
+
+.btn{
+    border-radius: 10px;
+    padding: 10px 15px;
+    border: 20x solid #5d5d5a;
+    background-color: #5d5d5a;
+    color: #fff4e3;
+    margin-right: 10px;
+}
+
+.login-form{
+    width: 100%;
+    padding: 100px;
+    border-radius: 10px;
+    height: 100%;
+    border: 2px solid #ed733fb0;
+}
+
+.login-form legend{
+    font-size: 2.5em;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.form-input{
+    margin-bottom: 20px;
+}
+
+.form-input label{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form-input input{
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+    padding: 10px 15px;
+    border: 2px solid #f5c181;
+    background: #fff4e3;
+}
+
+.text-light{
+    color: #fff4e3;
+    font-weight: bold;
+}
+
+.form{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    margin-bottom: 200px;
+}

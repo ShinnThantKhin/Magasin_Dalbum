@@ -1,0 +1,59 @@
+*{
+    font-family: 'Montaga', serif;
+}
+
+body{
+    background-color: #fee3a4;
+}
+
+.bg-color{
+    background-color: #aa540eee;
+}
+
+.logo{
+    display: inline-block;
+}
+
+.logo-img{
+    width: 60px;
+    height: 60px;
+    align-items: center;
+    margin: auto;
+
+}
+
+.logo-name{
+    font-size: 20px;
+}
+
+.f-color{
+    font-weight: bold;
+}
+
+.btn{
+    border-radius: 10px;
+    padding: 10px 15px;
+    border: 20x solid #5d5d5a;
+    background-color: #5d5d5a;
+    color: #fff4e3;
+    margin-right: 10px;
+}
+
+.card{
+    width: 90%;
+    height: 100%;
+    border-radius: 10px;
+    display: flex;
+    background-color: rgba(255, 233, 233, 0.563);
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: #3d1c00;
+}
+
+h1{
+    font-weight: bold;
+}

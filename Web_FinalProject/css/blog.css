@@ -1,0 +1,97 @@
+*{
+    font-family: 'Montaga', serif;
+}
+
+body{
+    background-color: #fefd97;
+}
+
+.bg-color{
+    background-color: #aa540eee;
+}
+
+.logo{
+    display: inline-block;
+}
+
+.logo-img{
+    width: 60px;
+    height: 60px;
+    align-items: center;
+    margin: auto;
+
+}
+
+.logo-name{
+    font-size: 20px;
+}
+
+.f-color{
+    font-weight: bold;
+}
+
+.btn{
+    border-radius: 10px;
+    padding: 10px 15px;
+    border: 20x solid #5d5d5a;
+    background-color: #5d5d5a;
+    color: #fff4e3;
+    margin-right: 10px;
+}
+
+.card-line{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+
+.card{
+    width: 400px;
+    height: 320px;
+    border-radius: 10px;
+    display: inline-block;
+    overflow: hidden;
+    margin-right: 50px;
+    background-color: rgba(255, 255, 255, 0.563);
+    vertical-align: top;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.card-img{
+    width: 100%;
+    display: block;
+    height: 213px;
+}
+
+.card-title{
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.card-paragraph{
+    margin-bottom: 0;
+    color: #767675;
+}
+
+.bck{
+    text-decoration: none;
+    color: white;
+}
+
+.bck:hover, .bck:active{
+    color: white;
+}
+
+.see-more{
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-bottom: -20px;
+     
+}

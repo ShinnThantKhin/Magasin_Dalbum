@@ -1,0 +1,39 @@
+*{
+    font-family: 'Montaga', serif;
+}
+
+body{
+    background-color: #fefd97;
+}
+
+.bg-color{
+    background-color: #aa540eee;
+}
+
+.bck{
+    text-decoration: none;
+    color: white;
+}
+
+.bck:hover, .bck:active{
+    color: white;
+}
+
+.btn{
+    border-radius: 10px;
+    padding: 10px 15px;
+    border: 20x solid #5d5d5a;
+    background-color: #5d5d5a;
+    color: #fff4e3;
+    margin-right: 10px;
+}
+
+h1{
+    font-weight: bold;
+}
+
+pre{
+    font-size: 1.2em;
+    margin-left: 0;
+    padding-left: 0;
+}
